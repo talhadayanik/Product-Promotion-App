@@ -3,6 +3,7 @@ Authentication and product promotion app for android with Retrofit
 
 ## Used Technologies and Libraries
 - Retrofit
+- Glide
 
 ## Used Service
 - dummyjson.com
